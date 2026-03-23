@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 What I'm Currently Working On
-- 🧠 AI-based systems (Computer Vision, YOLOv8, real-time learning)
+- 🧠 AI-based systems (Computer Vision, Agentic RAGs, Test-Time Scaling(TTS) )
 - 🌐 Full-stack development (Next.js + backend systems)
 - 🔌 Embedded & analog projects (FM transmitter, speaker systems)
 - ⚙️ Exploring system-level design (OS, compilers, hardware-software co-design)
