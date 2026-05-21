@@ -64,6 +64,17 @@
 - Implemented using Verilog on FPGA Xilinx Zynq-7000 using Vivado
 - Focus on speed and area optimization over ripple carry
 
+🔹 **4x4 Analog TouchPad**  
+- Designed a 4x4 analog touch pad along with signal conditioning and thresholding
+- Implemented it using a completely new circuit designed by us
+- Utilizes the 50 Hz room noise to detect touch of a human, works for even multiple touch
+- Built using only analog components(diodes, opamps, envelope detectors...)
+
+🔹 **SCAN NavSystem**  
+- Created and Simulated a navigation software that is based of social norms
+- It is a Socially Compliant Autonomus Navigation System based off ros2
+- It slowes down near ppl, does not overtake and instead gives way for others, it never runs into ppl
+
 ---
 
 ## 📈 Goals
